@@ -1,0 +1,19 @@
+[{
+    "image": "/img/slide-sun-1.jpg",
+    "align": "center",
+    "title": "溥天之下年会准备中",
+    "subtitle": "敬请期待",
+	"link": "/"
+}, {
+    "image": "/img/slide-sun-2.jpg",
+    "align": "right",
+    "title": "溥天之下年会准备中",
+    "subtitle": "敬请期待",
+	"link": null
+}, {
+    "image": "/img/slide-sun-3.jpg",
+    "align": "left",
+    "title": "溥天之下年会准备中",
+    "subtitle": "敬请期待",
+	"link": null
+}]
