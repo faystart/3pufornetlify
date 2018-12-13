@@ -29,35 +29,53 @@ categories: 通知
 
 **黑（2017）**
 
-`http://kg.qq.com/accompanydetail/index.html?mid=001VD5Ep2V6d4u`
+```ym
+http://kg.qq.com/accompanydetail/index.html?mid=001VD5Ep2V6d4u
+```
 
 **愿同尘与灰**
 
-`http://kg.qq.com/accompanydetail/index.html?mid=003X3nI90iRqDC`
+```
+http://kg.qq.com/accompanydetail/index.html?mid=003X3nI90iRqDC
+```
 
 **生命（第二版）**
 
-`http://kg.qq.com/accompanydetail/index.html?mid=003eojVH05WkEF`
+```
+http://kg.qq.com/accompanydetail/index.html?mid=003eojVH05WkEF
+```
 
 **夜**
 
-`http://kg.qq.com/accompanydetail/index.html?mid=001rENEu1HaqnV`
+```
+http://kg.qq.com/accompanydetail/index.html?mid=001rENEu1HaqnV
+```
 
 **我们的太阳I**
 
-`http://kg.qq.com/accompanydetail/index.html?mid=0040T7I32PUlNl`
+```
+http://kg.qq.com/accompanydetail/index.html?mid=0040T7I32PUlNl
+```
 
 **命运之匙（2017）**
 
-`http://kg.qq.com/accompanydetail/index.html?mid=002hSfw43aYf1M`
+```
+http://kg.qq.com/accompanydetail/index.html?mid=002hSfw43aYf1M
+```
 
 **思念（2017）**
 
-`http://kg.qq.com/accompanydetail/index.html?mid=002FvJhu3o8dYH`
+```
+http://kg.qq.com/accompanydetail/index.html?mid=002FvJhu3o8dYH
+```
 
 **昔日如梦（2017）**
 
-`http://kg.qq.com/accompanydetail/index.html?mid=003If2Fk3x3TTq`
+```
+http://kg.qq.com/accompanydetail/index.html?mid=003If2Fk3x3TTq
+```
+
+
 
 ### 规则
 
